@@ -2,7 +2,10 @@
 DIY &lt;SafeAreaView/> For Your ReactNative Apps Demo.
 
 ## Install Dependencies
-`npm install`
+```
+npm install -g expo-cli
+npm install
+```
 
-## Start App
+## Start Project
 `npm start`
