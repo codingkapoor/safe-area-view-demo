@@ -4,5 +4,5 @@ DIY &lt;SafeAreaView/> For Your ReactNative Apps Demo.
 ## Install Dependencies
 `npm install`
 
-## Start Server
+## Start App
 `npm start`
