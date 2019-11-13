@@ -1,5 +1,5 @@
 # safe-area-view-demo
-DIY &lt;SafeAreaView/> For Your ReactNative Apps Demo.
+Render Components Within Safe Area Boundaries For All React Native Apps Demo.
 
 ## Install Dependencies
 ```
